@@ -25,7 +25,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
+~~~
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -104,8 +104,7 @@ Execute the program using runserver command.
 <td align="center">19AI414</td>
 <td>WEB APPLICATION(FWAD)</td>
 </tr>
-
-'''
+~~~
 
 ## OUTPUT
 
